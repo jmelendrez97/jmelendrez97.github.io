@@ -44,7 +44,12 @@
     "noImageResize": "",
     "uniqCompNum": 36,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://jmelendrez97.github.io/index.html",
+    "sitemapSwitcherAuto": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
