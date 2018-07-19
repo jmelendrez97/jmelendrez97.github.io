@@ -42,7 +42,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 36,
+    "uniqCompNum": 43,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1603,7 +1603,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Art helps me express my creativity and emotions. Sometimes, when we want to say something with our heart out, there will always be factors that can change our mind. If you can't say it in words, say it in art. \n\nNo one can suppress a person's will to be creative. As long as there is a burning passion for art, it will lead humanity to an absolute creative freedom.",
-        "title": "Work with Jonathan - Art",
+        "title": "Art - Work with Jonathan ",
         "order": 2
       },
       "components": [
